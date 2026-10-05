@@ -49,3 +49,4 @@ tests and builds the Docker image.
 
 ## Branching & Commits
 `main` is stable; work is done on `feature/*`, `bugfix/*`, `infra/*` branches and merged via PR.
+
