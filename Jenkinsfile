@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/YOUR_USERNAME/aceest-fitness.git'
+                git branch: 'main', url: 'https://github.com/neha-giri/Assignment-1_ACEest_CI-CD-Pipelines.git'
             }
         }
         stage('Clean Build') {
